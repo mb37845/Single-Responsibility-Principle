@@ -1,0 +1,4 @@
+C:\Users\G3\OneDrive\Desktop\mvc training\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.exe
+C:\Users\G3\OneDrive\Desktop\mvc training\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.pdb
+C:\Users\G3\OneDrive\Desktop\mvc training\Single Responsibility Principle\Single Responsibility Principle\obj\x86\Debug\Single Responsibility Principle.exe
+C:\Users\G3\OneDrive\Desktop\mvc training\Single Responsibility Principle\Single Responsibility Principle\obj\x86\Debug\Single Responsibility Principle.pdb
